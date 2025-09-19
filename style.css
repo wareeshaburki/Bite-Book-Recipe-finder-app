@@ -374,7 +374,7 @@ body{
     width: 100%;
   }
 
-  .search-button , .mode-button{
+  .search-button {
     max-width: 100%;
     width: 100%;
   }
@@ -404,10 +404,6 @@ body{
     padding: 0.5rem;
   }
 
-  .mode-button{
-    padding : 0.5rem 0.3rem;
-  }
-
   .recipe-container {
     grid-template-columns: 1fr;
     gap: 0.75rem;
@@ -433,6 +429,7 @@ body{
     padding: 0.75rem;
   }
 }
+
 
 
 
