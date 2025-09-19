@@ -399,9 +399,13 @@ body{
   }
 
   .search-input,
-  .search-button , .mode-button{
+  .search-button {
     font-size: 1rem;
     padding: 0.5rem;
+  }
+
+  .mode-button{
+    padding : 0.5rem 0.3rem;
   }
 
   .recipe-container {
@@ -429,5 +433,6 @@ body{
     padding: 0.75rem;
   }
 }
+
 
 
