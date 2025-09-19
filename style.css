@@ -21,7 +21,7 @@ body{
 }
 
 .mode-button , .random-button{
-  font-size: 1.1rem;
+  font-size: 1rem;
   padding: 0.75rem;
   max-width: 10rem;
   border-radius: 5px;
@@ -72,7 +72,7 @@ body{
 }
 
 .heading {
-  font-size: 4rem;
+  font-size: 3rem;
   color: #556b2f;
 }
 
@@ -82,7 +82,7 @@ body{
 
 .sub-heading {
   color: #333333;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 .search-box {
@@ -96,7 +96,7 @@ body{
 .search-input,
 .search-button{
   margin: 0.5rem;
-  font-size: 1.1rem;
+  font-size: 1rem;
   padding: 0.75rem;
   border-radius: 5px;
   outline: none;
@@ -217,16 +217,16 @@ body{
 }
 
 .category {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
 .instructions {
-  font-size: 1.1rem;
+  font-size: 1rem;
   padding: 0.3rem;
 }
 
 .recipe-name {
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 
 .read-more {
@@ -235,7 +235,7 @@ body{
   border-radius: 5px;
   transition: 0.3s ease;
   color: #fff8f0;
-  font-size: 1.1rem;
+  font-size: 1rem;
   margin: 1rem;
   cursor: pointer;
 }
@@ -261,7 +261,7 @@ body{
   border-radius: 5px;
   transition: 0.3s ease;
   color: #fff8f0;
-  font-size: 1.1rem;
+  font-size: 1rem;
   margin: 1rem;
   cursor: pointer;
 }
@@ -291,7 +291,7 @@ body{
 .link-button a {
   text-decoration: none;
   color: #fff8f0;
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 
 .dark .link-button a{
@@ -305,7 +305,7 @@ body{
 }
 
 .message {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   color: #333333;
   text-align: center;
 }
@@ -340,11 +340,11 @@ body{
 
 @media (max-width: 1024px) {
   .heading {
-    font-size: 3rem;
+    font-size: 2.7rem;
   }
 
   .sub-heading {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
   }
 
   .search-input {
@@ -353,17 +353,17 @@ body{
   }
 
   .recipe-name {
-    font-size: 1.7rem;
+    font-size: 1.6rem;
   }
 }
 
 @media (max-width: 768px) {
   .heading {
-    font-size: 2.5rem;
+    font-size: 2.4rem;
   }
 
   .sub-heading {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
 
   .search-box {
@@ -385,13 +385,13 @@ body{
   }
 
   .recipe-name {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
   }
 }
 
 @media (max-width: 480px) {
   .heading {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
 
   .sub-heading {
@@ -414,7 +414,7 @@ body{
   }
 
   .recipe-name {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
   }
 
   .instructions,
@@ -429,4 +429,5 @@ body{
     padding: 0.75rem;
   }
 }
+
 
